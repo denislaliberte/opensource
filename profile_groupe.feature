@@ -1,5 +1,6 @@
 Feature: Profile group example
 
+
   Background:
     Given a file named "spec/spec_helper.rb" with:
       """ruby
